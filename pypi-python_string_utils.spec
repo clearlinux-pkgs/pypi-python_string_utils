@@ -7,7 +7,7 @@
 #
 Name     : pypi-python_string_utils
 Version  : 1.0.0
-Release  : 13
+Release  : 14
 URL      : https://files.pythonhosted.org/packages/10/91/8c883b83c7d039ca7e6c8f8a7e154a27fdeddd98d14c10c5ee8fe425b6c0/python-string-utils-1.0.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/10/91/8c883b83c7d039ca7e6c8f8a7e154a27fdeddd98d14c10c5ee8fe425b6c0/python-string-utils-1.0.0.tar.gz
 Summary  : Utility functions for strings validation and manipulation.
